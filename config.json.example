@@ -1,0 +1,4 @@
+{
+    "mastodon_instance": "$MASTODON_INSTANCE",
+    "access_token": "$ACCESS_TOKEN"
+}
