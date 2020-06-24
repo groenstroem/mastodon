@@ -3,7 +3,7 @@ import logging
 
 import requests
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.WARN)
 
 with open('config.json') as config_file:
     config = json.load(config_file)
